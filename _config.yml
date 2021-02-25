@@ -28,7 +28,7 @@ twitter_username: evanmiltenburg
 github_username:  evanmiltenburg
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
