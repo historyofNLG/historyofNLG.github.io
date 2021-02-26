@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to this website!
+Welcome to the *History of NLG* website! Here we will publish semi-regular updates about our project, interviewing different researchers in the field of Natural Language Generation.
